@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-epm-primary: #007A3D;
+  --color-epm-primary-dark: #005a2c;
+  --color-epm-primary-light: #00994d;
+  --color-epm-secondary: #00A850;
+  --color-epm-surface: #F4FBF7;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-sans);
+  }
+}

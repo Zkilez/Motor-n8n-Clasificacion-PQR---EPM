@@ -1,0 +1,6 @@
+{
+  "name": "EPM · Clasificación Inteligente de PQR",
+  "description": "Sistema inteligente de clasificación, cálculo de prioridad y enrutamiento automatizado de PQR para Empresas Públicas de Medellín (EPM).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
